@@ -2696,7 +2696,7 @@ MonoBehaviour:
   targetTag: Cube
   piston: {fileID: 2327805483598881642}
   pushDistance: 0.1
-  pushSpeed: 0.6
+  pushSpeed: 0.5
   delayBeforePush: 0.72
   retractDelay: 0.3
   pushDirection: {x: 0, y: 0, z: -1}
